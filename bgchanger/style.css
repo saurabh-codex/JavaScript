@@ -1,0 +1,22 @@
+.body{
+    background-color: #fff;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+
+.grey{
+    background-color: grey;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
